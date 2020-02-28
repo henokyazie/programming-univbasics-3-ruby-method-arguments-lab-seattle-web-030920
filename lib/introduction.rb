@@ -7,7 +7,6 @@
 def introduction(name)
   puts "Hi, My name is #{name}."
 end
-introduction ("Henok")
 
 
 def introduction_with_language(name, language)
